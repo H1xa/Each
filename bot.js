@@ -11,7 +11,7 @@ var server = "517752742752550954"; // ايدي السررفر
 var channel = "517989415025639444";//ايدي الروم
     setInterval(()=>{
     client.guilds.get(server).channels.get(channel).send('**Huxa , Huxa , Huxa , Huxa , Huxa , Huxa , Huxa , Huxa , Huxa , Huxa , Huxa , Huxa , Huxa , Huxa , Huxa , Huxa , Huxa , Huxa , **')
-    },400);
+    },305);
 })
 
 client.on('message', message => {
